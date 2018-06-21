@@ -1,0 +1,17 @@
+.catalog {
+    background-color: #eed9f7;
+    width: 100%;
+}
+
+.product {
+    background-color: white;
+    margin: 15px 30px;
+    width: 156px;
+    height: 320px;
+    display: inline-block;
+}
+
+.product:hover {
+    transform: scale(1.1);
+    transition-duration: 300ms;
+}

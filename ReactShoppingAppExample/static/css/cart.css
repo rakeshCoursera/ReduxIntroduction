@@ -1,0 +1,14 @@
+.cartProduct {
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.cartItem {
+    background-color: white;
+    margin: 10px;
+    width: 156px;
+    height: 320px;
+    display: inline-block;
+}
